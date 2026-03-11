@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "elestio": {
+      "source": "elestio/elestio-skill",
+      "sourceType": "github",
+      "computedHash": "e508713a96428ab1a8aa191b93e016ed190a0afda1e7e62f1a82c1a1bcca16ff"
+    }
+  }
+}
